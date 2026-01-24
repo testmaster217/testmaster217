@@ -1,4 +1,4 @@
-# My name is Collin Vesel, and I am a software develoer.
+# My name is Collin Vesel, and I am a software developer.
 
 My GitHub may not look like much right now, but I have used a lot of tools, and I have a lot of ideas for what I want to make with the experience I got from using them.
 
