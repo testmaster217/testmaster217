@@ -10,6 +10,8 @@ LinkedIn:
 Stack Overflow:  
 <a href="https://stackoverflow.com/users/11986124/collin-vesel"><img src="https://stackoverflow.com/users/flair/11986124.png?theme=clean" width="208" height="58" alt="profile for Collin Vesel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Collin Vesel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+## About Me:
+
 My GitHub may not look like much right now, but I have used a lot of tools, and I have a lot of ideas for what I want to make with the experience I got from using them.
 
 The projects I can actually show right now are mostly [homework-type projects](https://github.com/testmaster217/portfolio-hub) from the certificates I've earned in front-end devlopment, back-end development, and DevOps. As you can tell from exploring these projects, I used React and Python (with Django and Flask) heavily for them. I also have a lot of experience with Java and C# from college (though the C# was mostly through game development with Unity and I don't have nearly as much experience with the rest of the .NET tech stack), but none of those projects made it into my GitHub. (Feel free to ask me about them, though. I'd be happy to explain them!) And of course, I can learn whatever I need to.
