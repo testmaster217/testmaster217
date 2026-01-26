@@ -1,7 +1,7 @@
 # My name is Collin Vesel, and I am a software developer.
 
 ## Contact Me:
-- Email: <mailto:cvesel217@gmail.com>
+- Email: [cvesel217@gmail.com](mailto:cvesel217@gmail.com)
 - LinkedIn: <https://www.linkedin.com/in/collin-vesel-a547901b2>
 - Stack Overflow: <https://stackoverflow.com/users/11986124/collin-vesel>
 
