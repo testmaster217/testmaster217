@@ -1,9 +1,66 @@
 # My name is Collin Vesel, and I am a software developer.
 
+## Tools I Can Use:
+```Go
+fmt.println("I have been working with Go a lot lately (and mostly loving it)...")
+```
+```JavaScript
+console.log("..and I am comfortable with JavaScript too.");
+console.log("(But I like TypeScript's static types 😊.)");
+```
+```JSX
+<>
+  <li key="React">My favorite JS framework so far is React (I like the way you think about React projects)</li>
+  <li key="NextJs">I've also used Next.js because React's official docs insist on using a framework and I wasn't quite as wise as I am now 🤡.</li>
+  <li key="Jsx">(This of course means I have no problem with JSX.)</li>
+  <li key="Tsx">(Or TSX, because of TypeScript.)</li>
+</>
+// (I figured that using apostrophes instead of "&apos;" would make the messages easier to read 😉.)
+```
+```HTML
+<h3>But I haven't forgotten the basics:</h3>
+<p id="WebThings">
+  I can still do plain old HTML (and am working on something using HTMX 🤫)...
+</p>
+```
+```CSS
+#WebThings::after {
+  content: "...and I can do CSS."
+}
+/* (Though it would be nice if I knew a way to make this Markdown file prettier 😐.) */
+```
+```Python
+print("I have also used Python a fair amount.")
+print("Plus the two web frameworks Flask ⚗️...")
+print("...and Django 🔋🔋.")
+print("...")
+print("(...I prefer Flask 😑.)")
+```
+```Java
+System.out.println("I used Java all throughout college, making it one of the languages I have the most experience with 💎.");
+System.out.println("and I used Spring Boot a couple of times too (though it has been a bit).");
+```
+```C#
+console.WriteLine("I have used C# for longer that I have used Java 🥇.");
+console.WriteLine("(Though it was mostly through game development with the Unity engine 🎮. I have significantly less experience with the rest of the .NET stack 😅.)");
+```
+```Bash
+git commit -m "My version control tool of choice so far has been Git."
+```
+```SQL
+/*
+  And I have worked with relational databases a couple of times.
+  (Honestly, I'm surprised how little it's come up for me so far 🧐.)
+*/
+SELECT * FROM Tools WHERE Name='MySQL'
+```
+...and I can learn any other tools that I need to 👍!  
+(Also, I have used Jira and of course, GitHub.)
+
 ## Contact Me:
-- Email: [cvesel217@gmail.com](mailto:cvesel217@gmail.com)
-- LinkedIn: <https://www.linkedin.com/in/collin-vesel-a547901b2>
-- Stack Overflow: <https://stackoverflow.com/users/11986124/collin-vesel>
+- 📧 Email: [cvesel217@gmail.com](mailto:cvesel217@gmail.com)
+- 💼 LinkedIn: <https://www.linkedin.com/in/collin-vesel-a547901b2>
+- 👨‍💻 Stack Overflow: <https://stackoverflow.com/users/11986124/collin-vesel>
 
 ## About Me:
 
