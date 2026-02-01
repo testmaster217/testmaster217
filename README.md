@@ -1,9 +1,9 @@
 # My name is Collin Vesel, and I am a software developer.
 
 ## Tools I Can Use:
-![Go](https://img.shields.io/badge/Go-deepskyblue?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-dodgerblue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge)
-![React](https://img.shields.io/badge/React-turquoise?style=for-the-badge)
+![React](https://img.shields.io/badge/React-darkturquoise?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-orangered?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-rebeccapurple?style=for-the-badge)
 ![GitHub (Duh)](https://img.shields.io/badge/GitHub-(Duh)-white?style=for-the-badge&labelColor=black)
