@@ -8,7 +8,7 @@
 ![CSS](https://img.shields.io/badge/CSS-rebeccapurple?style=for-the-badge)
 ![GitHub (Duh)](https://img.shields.io/badge/GitHub-(Duh)-white?style=for-the-badge&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-royalblue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-darkorange?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-chocolate?style=for-the-badge)
 ![C-Sharp](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-tomato?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-silver?style=for-the-badge)
