@@ -23,7 +23,7 @@
 ## Contact Me:
 ![Email: cvesel217@gmail.com](https://img.shields.io/badge/Email%3A-cvesel217%40gmail.com-silver?style=for-the-badge&labelColor=gray&link=mailto%3Acvesel217%40gmail.com)
 ![LinkedIn: Collin Vesel](https://img.shields.io/badge/LinkedIn%3A-Collin_Vesel-white?style=for-the-badge&labelColor=royalblue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcollin-vesel-a547901b2)
-![Stack Overflow: Collin Vesel](https://img.shields.io/badge/Stack_Overflow%3A-Collin_Vesel-whitesmoke?style=for-the-badge&labelColor=orange&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F11986124%2Fcollin-vesel)
+![Stack Overflow: Collin Vesel](https://img.shields.io/badge/Stack_Overflow%3A-Collin_Vesel-whitesmoke?style=for-the-badge&labelColor=chocolate&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F11986124%2Fcollin-vesel)
 
 ## About Me:
 
