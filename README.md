@@ -3,7 +3,7 @@
 ## Tools I Can Use:
 ![Go](https://img.shields.io/badge/Go-dodgerblue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge)
-![React](https://img.shields.io/badge/React-darkturquoise?style=for-the-badge)
+![React](https://img.shields.io/badge/React-cadetblue?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-orangered?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-rebeccapurple?style=for-the-badge)
 ![GitHub (Duh)](https://img.shields.io/badge/GitHub-(Duh)-white?style=for-the-badge&labelColor=black)
@@ -16,7 +16,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-dodgerblue?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-limegreen?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-forestgreen?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-mediumblue?style=for-the-badge)
 ![...and whatever else I need to learn](https://img.shields.io/badge/%E2%80%A6and_whatever_else_I_need_to_learn-slategray?style=for-the-badge)
 
